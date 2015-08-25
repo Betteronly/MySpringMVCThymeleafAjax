@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" xmlns:score="http://thymeleafexamples">
+
+<head>
+<meta charset="UTF-8" />
+<title>添加用户成功</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" type="text/css" media="all" href="../../css/extrathyme.css" th:href="@{/css/extrathyme.css}" />
+</head>
+<!-- <script type="text/javascript" src="ajax_functions.js"> -->
+<script type="text/javascript" src="ajax_functions.js">
+var myReq = getXMLHTTPRequest();
+</script>
+<body>
+  <table>
+    <thead>
+      <tr>
+        <th th:text="操作成功">操作成功</th>
+      </tr>
+    </thead>
+    <tr>
+      <th>用户名</th>
+      <td th:text="${name}"></td>
+    </tr>
+    <tr>
+      <th>密码</th>
+      <td th:text="${passwd}"></td>
+    </tr>
+  </table>
+
+</body>
+</html>
