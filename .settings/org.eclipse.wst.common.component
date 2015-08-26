@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="thymeleaf_springmvc_demo_01_withAjax">
+    <wb-module deploy-name="thymeleaf_springmvc_demo_01_withAjax_git">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
-        <property name="java-output-path" value="/thymeleaf_springmvc_demo_01_withAjax/build/classes"/>
+        <property name="java-output-path" value="/thymeleaf_springmvc_demo_01_withAjax_git/build/classes"/>
         <property name="context-root" value="thymeleaf_springmvc_demo_01_withAjax_git"/>
     </wb-module>
 </project-modules>

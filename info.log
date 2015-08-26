@@ -1,12 +1,5 @@
-
 http://localhost:8080/thymeleaf_springmvc_demo_01_withAjax_git/extrathyme
 
-有Ajax测试代码
+有Ajax演示代码
 
-
-org.unbescape.html.HtmlEscape;
-
-问题
-Attribute.java
-org.thymeleaf.dom.Attribute
 
