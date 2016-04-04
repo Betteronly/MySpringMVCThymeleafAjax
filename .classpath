@@ -9,12 +9,12 @@
 			<attribute name="owner.project.facets" value="java"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib-springmvc4.1.4">
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib-thymeleaf2.1.4.RELEASE">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib-thymeleaf2.1.4.RELEASE">
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib-spring-fw-4.1.4">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
